@@ -5,4 +5,4 @@ of the context for a nation, and even make comparisons between them. See the das
 
 Note: You may require permission for access. Ask if need it. 
 
-The dataset can be found [here](https://www.kaggle.com/datasets/durgeshrao9993/top-greatest-armies-of-the-world).
+The dataset can be found in this repository, and was downloaded from Kaggle [here](https://www.kaggle.com/datasets/durgeshrao9993/top-greatest-armies-of-the-world).
