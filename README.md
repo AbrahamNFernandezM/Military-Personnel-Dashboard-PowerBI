@@ -3,7 +3,7 @@
 This dashboard represents the military personnel for every country at 2022. It shows relevant plots for get a complete view
 of the context for a nation, and even make comparisons between them.
 
-# Dashboard
+## Dashboard
 The structure looks like this.
 
 <img src="Screenshots/Screenshot2.png" width="600">
