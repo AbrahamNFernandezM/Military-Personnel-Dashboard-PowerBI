@@ -5,6 +5,7 @@ of the context for a nation, and even make comparisons between them. See the das
 
 # Dashboard
 ![Top](Screenshots/Screenshot2.png)
+<img src="images/dashboard1.png" width="600">
 ![Bottom](Screenshots/Screenshot1.png)
 
 Note: You may require permission for access. Ask if need it. 
