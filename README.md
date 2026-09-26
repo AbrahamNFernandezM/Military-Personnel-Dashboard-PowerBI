@@ -1,4 +1,4 @@
-### Global Military Personnel
+# Global Military Personnel
 ## A perspective from 2022
 
 This dashboard represents the military personnel for every country at 2022. Its shows relevant plots for get a complete view
